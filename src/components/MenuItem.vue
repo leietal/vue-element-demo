@@ -71,7 +71,7 @@ export default {
   flex-shrink: 0;
 }
 .menu-item:hover {
-  background-color: #f2f6fc;
+  background-color: #EBEEF5;
   color: #f56c6c;
 }
 .menu-open .el-icon-arrow-down {
