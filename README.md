@@ -27,4 +27,8 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 参考文档：
+
+[路由器的使用及配置](/router.md)
+[状态管理的使用及配置](/store.md)
+[过滤器的使用及配置](/filter.md)
