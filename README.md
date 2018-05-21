@@ -29,8 +29,10 @@ npm test
 
 ## 参考文档：
 
-[路由器的使用及配置](/router.md)
+- [路由器的使用及配置](/router.md)
 
-[状态管理的使用及配置](/store.md)
+- [状态管理的使用及配置](/store.md)
 
-[过滤器的使用及配置](/filter.md)
+- [过滤器的使用及配置](/filters.md)
+
+- [axios的使用](https://www.kancloud.cn/yunye/axios/234845)
