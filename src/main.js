@@ -12,6 +12,11 @@ import 'element-ui/lib/theme-chalk/index.css'
 import filters from './filters'
 // 引入vuex store
 import store from './store'
+// 引入axios
+import axios from 'axios'
+
+// 将axios绑定到vue原型中，这样直接可以在vue实例中使用：this.$axios.get(url, opts)
+Vue.prototype.$axios = axios;
 
 // 使用element主题
 Vue.use(element)
